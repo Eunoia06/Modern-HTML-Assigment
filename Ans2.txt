@@ -1,0 +1,19 @@
+HTML entities are special codes used to represnt characters that have a specific menaing or may not be easily typable on a standard keyboard. They are particularly useful when you want to display reserved characters or characters with special meaning in HTML documents.
+
+Five commonly used HTML Entities :
+
+1.&apos - Apostrophe (') :
+	Represents the apostrophe or single quotation mark (') and is used to display it within attribute values without ending the attribute prematurely.
+
+2.&lt - Less than sign ('<') :
+	Represents the less than symbol ("<") and is used to display it without triggering the interpretation of an HTML tag.
+
+3.&amp - Ampersand ('&') :
+	Represents the ampersand symbol ("&") and is used to display it without starting an HTML entity.
+
+4.&gt - Greater than symbol ('>') :
+	Represents the greater than symbol (">") and is used to display it without triggering the interpretation of an HTML tag.
+
+5.&quot - Double Quotation Mark ('"') :
+	Represents the double quotation mark (") and is used to display it within attribute values without ending the attribute prematurely.
+	

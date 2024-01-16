@@ -1,0 +1,16 @@
+The features of HTML5 are :
+
+1. Intro of audio and video :
+	Audio and video tags are the two major addition to HTML5.It allows developers to embed a video or audio on their website. Support for various codecs like MP3, AAC, and H.264 without requring third-party plugins.
+
+2.Canvas :
+	<canvas> element for drawing graphics and animations using Javascript.
+
+3.Scalable Vector Graphics (SVG) :
+	Native support for vector graphics through the <svg> element.
+
+4.Local Storage :
+	'localstorage' and 'sessionstorage' for storing data on the client side.
+
+5.Responsive Design :
+	Media queries for adapting web pages to different devices and screen sizes.

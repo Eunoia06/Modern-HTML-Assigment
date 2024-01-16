@@ -1,0 +1,7 @@
+3 Ways to Improve Accessibility of HTML:
+
+1.Semantic Markup and Headings: Use semantic elements like <header>, <nav>, <main>, <strong>, and <em> to clearly define the structure and meaning of your content. This helps screen readers understand the context and navigate efficiently. Additionally, utilize descriptive and hierarchical headings (H1, H2, H3) to structure your page and guide users.
+
+2.Alternative Text and Labels: Provide concise and descriptive alt text for images and informative labels for form elements. This allows screen readers to convey the meaning of visual content and assists users with motor impairments in filling out forms accurately. Remember, empty alt text for decorative images is also important to avoid confusing screen readers.
+
+3.Keyboard Accessibility and Focus Management: Ensure your website is fully navigable using only the keyboard. This includes assigning keyboard shortcuts, focusing elements in a logical order, and avoiding reliance on mouse-only interactions. By making your website keyboard-friendly, you cater to users with motor impairments and those who prefer keyboard navigation.

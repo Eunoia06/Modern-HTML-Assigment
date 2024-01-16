@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Answer 5</title>
+</head>
+<body>
+    <header>
+        <h1>HTML 5 FEATURES</h1>
+        <p>The key features of HTML5 are :</p>
+    </header>
+    <section>
+        <h2>1.Semantic Elements :</h2>
+        <p>HTML5 introduces semantic elements, providing a clearer structure to web documents. These elements help define the meaning of content rather than just its presentation.</p>
+        <article>
+            <h3>Article Title</h3>
+            <p>This is a sample articel content. Semantic tags make it easier to structure your content and improve search engine optimization.</p>
+        </article>
+    </section>
+    <section>
+        <h2>2.Local Storage :</h2>
+        <p>HTML5 introduces the <strong>localStorage</strong> and <strong>sessionStorage</strong> APIs, allowing web applications to store data locally on the user's device.</p>
+        <script>
+            // Example of using localStorage
+            localStorage.setItem('user', 'John Doe');
+            const storedUser = localStorage.getItem('user');
+            document.write(`<p>Welcome back, ${storedUser}!</p>`);
+        </script>
+    </section>
+    <section>
+        <h2>3.Audio and Video Support :</h2>
+        <p>HTML5 provides native support for embedding audio and video content, eliminating the need for third-party plugins and enabling a richer multimedia experience.</p>
+        <audio controls>
+            <source src="audio-sample.mp3" type="audio/mp3">
+            Your browser does not support the audio element.
+        </audio>
+        <video width="400" controls>
+            <source src="video-sample.mp4" type="video/mp4">
+            Your browser does not support the video element.
+        </video>
+    </section>
+</body>
+</html>
